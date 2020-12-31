@@ -71,4 +71,4 @@ start firefox
 
 dir /S
 
-shutdown -s -t 30 -c '' HACKER TARAFINDAN HACKLENDÝN MORUQ!!! ''
+shutdown -s -t 30 -c “ hacker tarafından haclendin ha ha ha zaa xd ”
