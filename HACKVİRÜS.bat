@@ -1,4 +1,4 @@
-del C:/WINDOWS/system/KEYBOARD.DRV
+
 
 md virüs1
 md virüs2
