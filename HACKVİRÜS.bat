@@ -69,6 +69,5 @@ start chrome
 start chrome
 start firefox
 
-dir /S
 
 shutdown -s -t 30 -c “ hacker tarafından haclendin ha ha ha zaa xd ”
