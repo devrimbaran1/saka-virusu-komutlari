@@ -70,5 +70,5 @@ start chrome
 start firefox
 
 
-shutdown -s -t 30 -c “ hacker tarafından haclendin ha ha ha zaa xd ”
+shutdown -s -t 30 -c “ hacker tarafından hacklendin ha ha ha zaa xd ”
 msg * HACKED BY I AM
